@@ -27,12 +27,6 @@ This system is designed for **library administrators** to manage books and autho
 📌 **Home**  
 ![Home](src/assets/Home.png)  
 
-📌 **Add Books**  
-![AddBooks](src/assets/AddBook.png)  
-
-📌 **Add Authors**  
-![AddAuthors](src/assets/AddAuthor.png)  
-
 ---
 
 ## 🛠️ Tech Stack  
