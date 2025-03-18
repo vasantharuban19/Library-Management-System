@@ -19,16 +19,6 @@ This system is designed for **library administrators** to manage books and autho
 
 ---
 
-## 📸 Screenshots  
-
-📌 **Admin Dashboard**  
-![Dashboard](src/assets/Dashboard.png) 
-
-📌 **Home**  
-![Home](src/assets/Home.png)  
-
----
-
 ## 🛠️ Tech Stack  
 
 | **Technology** | **Description** |
@@ -40,5 +30,17 @@ This system is designed for **library administrators** to manage books and autho
 | **Vercel & Render** | Hosting & Deployment |
 
 ---
+
+## 📸 Screenshots  
+
+📌 **Admin Dashboard**  
+![Dashboard](src/assets/Dashboard.png) 
+
+📌 **Home**  
+![Home](src/assets/Home.png)  
+
+---
+
+
 
 
